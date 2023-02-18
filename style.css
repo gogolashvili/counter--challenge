@@ -25,6 +25,11 @@ button {
   border-radius: 10px;
   background-color: rgb(53, 197, 37);
   font-size: 25px;
+  color: rgb(226, 16, 16);
+}
+button:hover {
+  background-color: black;
+  cursor: pointer;
 }
 .ganuleba {
   width: 120px;
