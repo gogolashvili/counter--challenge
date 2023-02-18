@@ -1,7 +1,7 @@
 .cont {
   width: 100vw;
   height: 100vh;
-  background-color: rgb(64, 122, 180);
+  background-color: rgb(218, 144, 84);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,12 +11,11 @@
 h1 {
   font-size: 120px;
   font-weight: 700;
-  color: rgb(198, 8, 8);
+  color: rgb(88, 12, 12);
 }
 h2 {
   font-size: 150px;
   font-weight: 700;
-  color: rgb(15, 55, 6);
 }
 
 button {
@@ -25,8 +24,8 @@ button {
   border-radius: 10px;
   background-color: rgb(53, 197, 37);
   font-size: 20px;
-  font-weight: 700;
-  color: rgb(226, 16, 16);
+  font-weight: 100;
+  color: rgb(168, 12, 12);
   border: none;
 }
 button:hover {
