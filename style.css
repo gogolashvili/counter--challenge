@@ -1,0 +1,36 @@
+.cont {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(64, 122, 180);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+h1 {
+  font-size: 120px;
+  font-weight: 700;
+  color: rgb(198, 8, 8);
+}
+h2 {
+  font-size: 150px;
+  font-weight: 700;
+  color: rgb(15, 55, 6);
+}
+
+button {
+  width: 180px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: rgb(53, 197, 37);
+  font-size: 25px;
+}
+.ganuleba {
+  width: 120px;
+}
+
+.div1 {
+  display: flex;
+  gap: 40px;
+}
